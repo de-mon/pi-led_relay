@@ -11,3 +11,7 @@ pi used as automation with relays: https://youtu.be/B_krqlk_cXo via NetworkChuck
 
 basic relay video: https://youtu.be/51f3ZazNW-w
 
+control a lamp with a relay: http://blog.whatgeek.com.pt/2018/05/use-a-raspberry-pi-and-a-relay-to-control-a-lamp/
+Part 2: http://blog.whatgeek.com.pt/2018/05/control-a-lamp-with-a-raspberry-pi-using-a-webpage/
+
+
